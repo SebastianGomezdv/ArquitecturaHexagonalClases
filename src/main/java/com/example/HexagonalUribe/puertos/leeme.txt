@@ -1,0 +1,3 @@
+//Interfaces que definen cómo el dominio habla con el exterior (entrada/salida).
+
+//El menú de servicios y los acuerdos con proveedores: cómo el puesto se comunica con clientes y con quienes le suministran cosas.

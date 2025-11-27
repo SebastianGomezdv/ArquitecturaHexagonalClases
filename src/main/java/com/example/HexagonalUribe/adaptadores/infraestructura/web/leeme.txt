@@ -1,0 +1,3 @@
+Adaptador de entrada HTTP (REST).
+
+El frente del puesto: la barra donde llega la gente, ve el menú y hace el pedido.

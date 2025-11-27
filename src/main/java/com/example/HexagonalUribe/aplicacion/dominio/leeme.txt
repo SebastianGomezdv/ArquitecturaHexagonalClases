@@ -1,0 +1,4 @@
+Centro de la app: reglas de negocio y orquestación de casos de uso.
+
+
+La cocina como concepto: recetas, reglas de preparación y cómo se organizan los pedidos.

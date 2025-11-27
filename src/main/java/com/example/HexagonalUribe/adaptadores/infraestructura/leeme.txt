@@ -1,0 +1,4 @@
+Capa de adaptadores concretos: cómo el dominio habla con el mundo real (BD, web, etc.).
+
+
+toda la infraestructura física del puesto de salchichon: mostrador, plancha, nevera, etc., que conecta el negocio con la calle.
